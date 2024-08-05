@@ -12,6 +12,23 @@ This repo contains BASH Script solution to the Hacker Rank problems and projects
 |5|[Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem?isFullScreen=true)|[Click Here](./problems/05-comparing-numbers.md)|Easy|Bash|
 |6|[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem?isFullScreen=true)|[Click Here](./problems/06-getting-started-with-conditionals.md)|Easy|Bash|
 |7|[More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem?isFullScreen=true)|[Click Here](./problems/07-more-on-conditionals.md)|Easy|Bash|
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
+||[]()|[Click Here]()|||
 |8|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem?isFullScreen=true)|[Click Here](./problems/08-cut1.md)|Easy|Cut|
 |9|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem?isFullScreen=true)|[Click Here](./problems/09-cut2.md)|Easy|Cut|
 |10|[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem?isFullScreen=true)|[Click Here](./problems/10-read-in-an-array.md)|Easy|Array|
