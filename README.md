@@ -15,7 +15,7 @@ This repo contains BASH Script solution to the Hacker Rank problems and projects
 |8|[A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem?isFullScreen=true)|[Click Here](./problems/08-a-personalized-echo.md)|Easy|Bash|
 |9|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem?isFullScreen=true)|[Click Here](./problems/09-cut1.md)|Easy|Cut|
 |10|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem?isFullScreen=true)|[Click Here](./problems/10-cut2.md)|Easy|Cut|
-||[]()|[Click Here]()|||
+|11|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem?isFullScreen=true)|[Click Here](./problems/11-cut3.md)|Easy|Cut|
 ||[]()|[Click Here]()|||
 ||[]()|[Click Here]()|||
 ||[]()|[Click Here]()|||
