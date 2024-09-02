@@ -16,6 +16,11 @@ This repo contains BASH Script solution to the Hacker Rank problems and projects
 |9|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem?isFullScreen=true)|[Click Here](./problems/09-cut1.md)|Easy|Cut|
 |10|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem?isFullScreen=true)|[Click Here](./problems/10-cut2.md)|Easy|Cut|
 |11|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem?isFullScreen=true)|[Click Here](./problems/11-cut3.md)|Easy|Cut|
+|12|[Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem?isFullScreen=true)|[Click Here](./problems/12-cut4.md)|Easy|Cut|
+|13|[Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem?isFullScreen=true)|[Click Here](./problems/13-cut5.md)|Easy|Cut|
+|11|[Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem?isFullScreen=true)|[Click Here](./problems/11-cut6.md)|Easy|Cut|
+|11|[Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem?isFullScreen=true)|[Click Here](./problems/11-cut7.md)|Easy|Cut|
+|11|[Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem?isFullScreen=true)|[Click Here](./problems/11-cut8.md)|Easy|Cut|
 ||[]()|[Click Here]()|||
 ||[]()|[Click Here]()|||
 ||[]()|[Click Here]()|||
